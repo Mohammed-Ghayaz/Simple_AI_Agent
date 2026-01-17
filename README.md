@@ -1,6 +1,6 @@
 # Simple AI Agent
 
-A basic simple AI Agent project built using Firecrawl MCP tools and langgraph.
+A simple AI Agent project built using Firecrawl MCP tools and langgraph.
 
 Create a .env file and add the following environment variables
 
